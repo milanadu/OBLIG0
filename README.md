@@ -1,2 +1,2 @@
 Milana
-PC versjon nummer bla bla bla
+PC versjon nummer 23H2
