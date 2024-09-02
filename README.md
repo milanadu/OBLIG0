@@ -1,2 +1,2 @@
-# Milana
-# PC versjon nummer 23H2
+Milana
+PC versjon nummer 23H2
